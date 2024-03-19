@@ -1,0 +1,8 @@
+.jumbotron{
+    cursor: pointer;
+    color: black;
+    background-color: rgb(36, 185, 211);
+    text-align: center;
+    text-shadow: 8px;
+    font-family: cursive
+}

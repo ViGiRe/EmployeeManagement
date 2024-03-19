@@ -1,0 +1,58 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Chetana Bandurkar",
+      "uname": "che123",
+      "pass": "che123@"
+    },
+    {
+      "id": 2,
+      "name": "Vishakha Bandurkar",
+      "uname": "vishu123",
+      "pass": "vsh123@"
+    },
+    {
+      "id": 3,
+      "name": "Vandana Bandurkar",
+      "uname": "vandan123",
+      "pass": "vanda123"
+    },
+    {
+      "id": 4,
+      "name": "Amit Yadav",
+      "uname": "amit123",
+      "pass": "amit123@"
+    },
+    {
+      "id": 5,
+      "name": "Sarita Deshmukh",
+      "uname": "saru123",
+      "pass": "sa123@"
+    },
+    {
+      "id": 6,
+      "name": "Chetan Desai",
+      "uname": "desai123",
+      "pass": "desh123@"
+    },
+    {
+      "id": 7,
+      "name": "Gauri Shah",
+      "uname": "gauri123",
+      "pass": "gauri123@"
+    },
+    {
+      "id": 8,
+      "name": "Farida sheikh",
+      "uname": "fari123",
+      "pass": "fari123@"
+    },
+    {
+      "id": 9,
+      "name": "Vahida Sharma",
+      "uname": "Sharma123",
+      "pass": "Sharma123@"
+    }
+  ]
+}

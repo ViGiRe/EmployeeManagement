@@ -1,0 +1,30 @@
+<div class="container">
+    <h4>Employee Details</h4>
+    <div class="jumbotron">
+            <div class="row">
+                <div class="form-group col-md-6" >
+                    <input type="text" id="name" class="form-control" placeholder="enter name" name="name" [(ngModel)]="s.e.name">
+                </div>
+
+                <div class="form-group col-md-6" >
+                    <input type="text" id="uname" class="form-control" placeholder="enter username" name="uname" [(ngModel)]="s.e.uname">
+                </div>
+            </div>
+&nbsp;
+            <div class="row">
+                <div class="form-group" >
+                    <input type="text" id="pass" class="form-control" placeholder="enter password" name="pass" [(ngModel)]="s.e.pass">
+                </div>
+                &nbsp;
+                <div class="form-group" >
+                    <button type="submit" class="btn btn-success block "  (click)="submitData(s.e)"> Submit </button>
+                </div>
+                &nbsp;        
+                <div class="form-group" >
+                    <button type="submit"  class="block btn btn-warning" (click)="resetData()"> Reset </button>
+                </div>
+            </div>
+
+    </div>
+</div>
+<router-outlet></router-outlet>
